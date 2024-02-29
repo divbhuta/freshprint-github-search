@@ -1,0 +1,14 @@
+
+.App-header {
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 40px;
+    padding-right: 100px;
+    background: white;
+    height: 50px;
+    align-items: center;
+
+    div {
+      cursor: pointer;
+    }
+  }
